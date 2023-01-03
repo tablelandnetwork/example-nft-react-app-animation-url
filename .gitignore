@@ -1,0 +1,18 @@
+node_modules
+.env
+*.env
+coverage
+coverage.json
+typechain
+typechain-types
+abi.json
+bytecode.bin
+gobuild
+
+# NFT app
+build
+node_modules
+
+# IDEs
+.idea
+.vscode
